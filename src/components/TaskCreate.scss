@@ -1,0 +1,16 @@
+$bgColor:#fc9def;
+$textColor:#fff;
+body{
+font-family: sans-serif;
+
+.taskCreate{
+text-align: center;
+margin-top: 1rem;
+form{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin: 0 auto;
+    text-align: start;
+}
+}}

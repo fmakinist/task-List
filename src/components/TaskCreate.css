@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+body .taskCreate {
+  text-align: center;
+  margin-top: 1rem;
+}
+body .taskCreate form {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  margin: 0 auto;
+  text-align: start;
+}/*# sourceMappingURL=TaskCreate.css.map */

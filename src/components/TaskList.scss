@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+
+  .card {
+    display: flex;
+    width: 25%;
+    margin: 1rem;
+
+    .card-header {
+      background-color: #df4759;
+      color: #fff;
+      text-align: center;
+    }
+
+    .card-body {
+      text-align: center;
+    }
+  }
+}
